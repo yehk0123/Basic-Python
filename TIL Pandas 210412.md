@@ -1,8 +1,8 @@
-# TIL Pandas 210412
+# TIL 210412
 
--Today, I learnt about Numpy from http://datascienceschool.net/intro.html. So far, Not so much difficulties as it is similar to R. 
+- Today, I learnt about Numpy from http://datascienceschool.net/intro.html. So far, Not so much difficulties as it is similar to R. 
 
--Though I forgot a lot of R after my national service, learning python allows me to recapitulate what I have learnt before in school and prepare for the readmission.
+- Though I forgot a lot of R after my national service, learning python allows me to recapitulate what I have learnt before in school and prepare for the readmission.
 
 
 # What to do tomorrow
